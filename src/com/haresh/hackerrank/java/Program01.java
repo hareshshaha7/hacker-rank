@@ -15,7 +15,7 @@ public class Program01 {
 
 		Scanner sc = new Scanner(System.in);
 		String A = sc.next();
-
+		sc.close();
 		/* Enter your code here. Print output to STDOUT. */
 		String isPalindrome = "Yes";
 		for (int i = 0; i < (A.length() + 1) / 2; i++) {
