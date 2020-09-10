@@ -4,7 +4,7 @@ Learn competitive programming through [HackerRank](https://www.hackerrank.com/)
 
 <b> Java </b>
 <br/>
-<br/> <b> Program 01: </b>  
+<br/> <b> Program 01: </b> Java String Reverse 
 
 -------
 <br/>
