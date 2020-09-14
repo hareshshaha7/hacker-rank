@@ -6,6 +6,7 @@ Learn competitive programming through [HackerRank](https://www.hackerrank.com/)
 <br/>
 <br/> <b> Program 01: </b> Java String Reverse 
 <br/> <b> Program 02: </b> Java String Tokens
+<br/> <b> Program 03: </b> Java Regex
 
 -------
 <br/>
