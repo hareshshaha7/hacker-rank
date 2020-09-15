@@ -15,3 +15,4 @@ Learn competitive programming through [HackerRank](https://www.hackerrank.com/)
 <br/>
 <br/> <b> Program 01: </b> Grading Students
 <br/> <b> Program 02: </b> Apple and Orange
+<br/> <b> Program 03: </b> Kangaroo
