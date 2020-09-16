@@ -7,6 +7,7 @@ Learn competitive programming through [HackerRank](https://www.hackerrank.com/)
 <br/> <b> Program 01: </b> Java String Reverse 
 <br/> <b> Program 02: </b> Java String Tokens
 <br/> <b> Program 03: </b> Java Regex
+<br/> <b> Program 03: </b> Valid Username Regular Expression
 
 -------
 <br/>
@@ -16,3 +17,4 @@ Learn competitive programming through [HackerRank](https://www.hackerrank.com/)
 <br/> <b> Program 01: </b> Grading Students
 <br/> <b> Program 02: </b> Apple and Orange
 <br/> <b> Program 03: </b> Kangaroo
+<br/> <b> Program 03: </b> Between Two Sets
