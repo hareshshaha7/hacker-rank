@@ -21,3 +21,4 @@ Learn competitive programming through [HackerRank](https://www.hackerrank.com/)
 <br/> <b> Program 03: </b> Kangaroo
 <br/> <b> Program 04: </b> Between Two Sets
 <br/> <b> Program 05: </b> Tag Content Extractor
+<br/> <b> Program 06: </b> Breaking the Records
