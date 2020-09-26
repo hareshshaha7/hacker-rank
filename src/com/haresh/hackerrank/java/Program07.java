@@ -1,0 +1,20 @@
+package com.haresh.hackerrank.java;
+
+/*
+	Java BigInteger
+	https://www.hackerrank.com/challenges/java-biginteger/problem
+*/
+
+import java.math.BigInteger;
+import java.util.Scanner;
+
+public class Program07 {
+	public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        Scanner sc = new Scanner(System.in);
+        BigInteger bigInteger1 = new BigInteger(sc.nextLine());
+        BigInteger bigInteger2 = new BigInteger(sc.nextLine());
+        System.out.println(bigInteger1.add(bigInteger2));
+        System.out.println(bigInteger1.multiply(bigInteger2));
+    }
+}
