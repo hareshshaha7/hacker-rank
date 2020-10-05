@@ -2,7 +2,7 @@ package com.haresh.hackerrank.java;
 
 /*
 	Java 2D Array
-	https://www.hackerrank.com/challenges/java-2d-array/problem
+	Problem Statement: https://www.hackerrank.com/challenges/java-2d-array/problem
 */
 
 import java.util.*;
