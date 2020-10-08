@@ -7,7 +7,7 @@ package com.haresh.hackerrank.java;
 
 import java.util.*;
 
-public class Pragram11 {
+public class Program11 {
 
 	public static boolean canWin(int leap, int[] game) {
 		// Return true if you can win the game; otherwise, return false.
