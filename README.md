@@ -18,6 +18,7 @@ Learn competitive programming through [HackerRank](https://www.hackerrank.com/)
 <br/> <b> Program 12: </b> Sales by Match
 <br/> <b> Program 13: </b> Drawing Book
 <br/> <b> Program 14: </b> Counting Valleys
+<br/> <b> Program 15: </b> Electronics Shop
 
 -------
 <br/>
