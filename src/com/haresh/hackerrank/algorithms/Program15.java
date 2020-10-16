@@ -6,10 +6,7 @@ package com.haresh.hackerrank.algorithms;
 */
 
 import java.io.*;
-import java.math.*;
-import java.text.*;
 import java.util.*;
-import java.util.regex.*;
 
 public class Program15 {
 
@@ -20,19 +17,20 @@ public class Program15 {
         int maxSpent = -1;
         Arrays.sort(keyboards);
         Arrays.sort(drives);
- 
-        for (int i = 0; i < keyboards.length; i++) {
+        int count = 0;
+        for (int j = drives.length -1, i = 0; j >= 0 ; j--) {
         	
-			for (int j = drives.length -1; j >= 0 ; j--) {
+        	for (; i < keyboards.length; i++) {
+        		count++;
 				int spent = keyboards[i] + drives[j];
-				if (maxSpent < spent && spent < b) {
+				if (maxSpent < spent && spent <= b) {
 					maxSpent = (keyboards[i] + drives[j]);
 				}
 				if (spent >= b)
 					break;
 			}
 		}
-        
+        System.out.println(count);
         return maxSpent;
     }
 
@@ -41,7 +39,6 @@ public class Program15 {
     public static void main(String[] args) throws IOException {
 
         String[] bnm = scanner.nextLine().split(" ");
-        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])*");
 
         int b = Integer.parseInt(bnm[0]);
 
@@ -52,7 +49,6 @@ public class Program15 {
         int[] keyboards = new int[n];
 
         String[] keyboardsItems = scanner.nextLine().split(" ");
-        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])*");
 
         for (int keyboardsItr = 0; keyboardsItr < n; keyboardsItr++) {
             int keyboardsItem = Integer.parseInt(keyboardsItems[keyboardsItr]);
