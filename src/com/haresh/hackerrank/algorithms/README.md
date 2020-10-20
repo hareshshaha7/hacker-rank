@@ -20,3 +20,4 @@ Practice problems from [Algorithms](https://www.hackerrank.com/domains/algorithm
 <br/> <b> Program 14: </b> Counting Valleys
 <br/> <b> Program 15: </b> Electronics Shop
 <br/> <b> Program 16: </b> Cats and a Mouse
+<br/> <b> Program 17: </b> Forming a Magic Square

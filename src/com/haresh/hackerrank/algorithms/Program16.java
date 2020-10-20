@@ -1,7 +1,7 @@
 package com.haresh.hackerrank.algorithms;
 
 /*
-	
+	Cats and a Mouse
 	Problem Statement: https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
 */
 
