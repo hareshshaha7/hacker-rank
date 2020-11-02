@@ -30,7 +30,7 @@ public class Program22 {
 				return true;
 			}
 			if (number > 2) {
-				for (int j = 2; j < (int) Math.sqrt(number); j++) {
+				for (int j = 2; j < number; j++) {
 					if (number % j == 0) {
 						return false;
 					}
