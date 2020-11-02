@@ -48,3 +48,4 @@ Learn competitive programming through [HackerRank](https://www.hackerrank.com/)
 <br/> <b> Program 19: </b> Java Varargs - Simple Addition
 <br/> <b> Program 20: </b> Java Reflection - Attributes
 <br/> <b> Program 21: </b> Can You Access?
+<br/> <b> Program 22: </b> Prime Checker
