@@ -50,3 +50,4 @@ Learn competitive programming through [HackerRank](https://www.hackerrank.com/)
 <br/> <b> Program 21: </b> Can You Access?
 <br/> <b> Program 22: </b> Prime Checker
 <br/> <b> Program 23: </b> Java Factory Pattern
+<br/> <b> Program 24: </b> Java Singleton Pattern
